@@ -1,0 +1,12 @@
+.paddingForm {
+  padding: 2em;
+  font-family: 'Parisienne', cursive;
+  border: 6px solid #0a2725;
+  border-radius: 10%;
+  color: #0a2725
+}
+
+.displayLink2 {
+  text-align: center;
+  color: #0a2725;
+}

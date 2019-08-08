@@ -1,0 +1,16 @@
+.gif{
+  background-image: url('https://medias.francoischarron.com/thumbnail/medias.francoischarron.com/gifs/original/gifs-animes-saint-valentin-UZfiHW84Mb.gif');
+  background-size: cover
+}
+
+.bodyColor{
+  background-color: ivory;
+  padding: 0.5em
+}
+
+.displayLink2{
+
+    font-family: 'Parisienne', cursive;
+    text-align: center;
+    color: #0a2725
+}
